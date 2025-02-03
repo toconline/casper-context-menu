@@ -6,7 +6,7 @@
     "menu",
     "context"
   ],
-  "name": "@cloudware-casper/casper-context-menu",
+  "name": "@toconline/casper-context-menu",
   "version": "2.0.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -15,7 +15,7 @@
   "author": "Cloudware S.A.",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
-    "@cloudware-casper/casper-overlay-behavior": "^1.x",
+    "@toconline/casper-overlay-behavior": "^1.x",
     "@polymer/iron-fit-behavior": "^3.x",
     "@polymer/paper-button": "^3.x",
     "@polymer/paper-listbox": "^3.x",
